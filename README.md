@@ -1,5 +1,7 @@
 
-# Scento Perfume Database
+# Perfume Notes Database: perfumes, fragrance ingredients and notes (Scento)
+
+Perfume notes and fragrance ingredients database: top, heart and base notes for 1,400+ perfumes, 140+ houses and 400+ raw materials, traced to house pages and authorized retailers. Browse it at https://www.scento.com/perfume-database or query it through the free API at https://www.scento.com/developers/perfume-api.
 
 Scento's verified perfume database as an open dataset: perfumes, the houses that make them and the raw materials (notes) they are built from, with fragrance family, character, season, time of day and the note pyramid where one exists.
 

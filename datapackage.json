@@ -1,7 +1,7 @@
 {
   "name": "scento-perfume-database",
   "title": "Scento Perfume Database",
-  "version": "2026.10.21",
+  "version": "2026.10.27",
   "description": "Scento's verified perfume database: perfumes, houses and raw materials with fragrance family, character, notes and a link to the matching scento.com page. Powers the free Scento Perfume API.",
   "homepage": "https://www.scento.com/perfume-database",
   "licenses": [

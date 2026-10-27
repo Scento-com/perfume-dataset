@@ -1,7 +1,16 @@
 
+<!-- max-seo-2026-10-28 -->
+Perfume database API and MCP server by Scento. Free, no API key, REST + MCP + OpenAPI. Query 1,500+ perfumes across 160+ houses with full notes pyramids (top, heart, base), scent families and similar scents, plus a 400+ entry fragrance ingredients database of raw materials.
+
+Twelve tools, one service: perfume-search, perfume-portrait, scent-neighbours, perfume-contrast, note-portrait, material-match, house-portrait, family-map, occasion-edit, wardrobe-composer, perfumery-lexicon, journal-search. Ask which perfumes smell like another, which notes a perfume contains, which perfumes use a given raw material (oud, iris, ambroxan, vetiver and more), how two fragrances differ, or what to wear for an occasion. Every answer links back to the Scento page for the perfume, house or material.
+
+Quality over volume: each notes pyramid is traced to the house or an authorized retailer. Data is not scraped from forums or user-generated lists, so a perfume notes API call returns what the house actually publishes.
+
+Connect: remote MCP at https://www.scento.com/mcp (Claude, ChatGPT, Cursor, VS Code, any MCP client), npm package scento-perfume-api, PyPI package scento-perfume-api, or REST at https://www.scento.com/api/perfume/v1 (OpenAPI at https://www.scento.com/api/perfume/v1/openapi.json). Responses in 10 languages. A free alternative to paid fragrance APIs for apps, bots, research and AI agents. Home: https://www.scento.com/developers
+
 # Perfume Notes Database: perfumes, fragrance ingredients and notes (Scento)
 
-Perfume notes and fragrance ingredients database: top, heart and base notes for 1,400+ perfumes, 140+ houses and 400+ raw materials, traced to house pages and authorized retailers. Browse it at https://www.scento.com/perfume-database or query it through the free API at https://www.scento.com/developers/perfume-api.
+Perfume notes and fragrance ingredients database: top, heart and base notes for 1,500+ perfumes, 160+ houses and 400+ raw materials, traced to house pages and authorized retailers. Browse it at https://www.scento.com/perfume-database or query it through the free API at https://www.scento.com/developers/perfume-api.
 
 Scento's verified perfume database as an open dataset: perfumes, the houses that make them and the raw materials (notes) they are built from, with fragrance family, character, season, time of day and the note pyramid where one exists.
 
@@ -20,7 +29,7 @@ It is the same data that powers the free Scento Perfume API and its MCP server.
 | `materials.csv` | 404 | Raw materials, accords and notes with aliases, material family, origin and smell description. |
 | `datapackage.json` | | Frictionless Data descriptor for all tables. |
 
-The Scento Perfume API covers 1,400+ perfumes, 140+ houses and 400+ raw materials; this snapshot (21 October 2026) exports every entry that has a public page on scento.com.
+The Scento Perfume API covers 1,500+ perfumes, 160+ houses and 400+ raw materials; this snapshot (21 October 2026) exports every entry that has a public page on scento.com.
 
 ## Fields
 

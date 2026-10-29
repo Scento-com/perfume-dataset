@@ -15,9 +15,9 @@ It is the same data that powers the free Scento Perfume API and its MCP server.
 
 | File | Rows | Contents |
 |---|---|---|
-| `perfumes.csv` / `perfumes.jsonl` | 1,444 | One row per perfume. The JSONL file has the same rows with list fields as arrays. |
-| `houses.csv` | 157 | Perfume houses with country, founding year and a one-line portrait. |
-| `materials.csv` | 417 | Raw materials, accords and notes with aliases, material family, origin and smell description. |
+| `perfumes.csv` / `perfumes.jsonl` | 1,479 | One row per perfume. The JSONL file has the same rows with list fields as arrays. |
+| `houses.csv` | 160 | Perfume houses with country, founding year and a one-line portrait. |
+| `materials.csv` | 420 | Raw materials, accords and notes with aliases, material family, origin and smell description. |
 | `datapackage.json` | | Frictionless Data descriptor for all tables. |
 
 The Scento Perfume API covers 1,500+ perfumes, 160+ houses and 450+ raw materials; this snapshot (27 October 2026) exports every entry that has a public page on scento.com.

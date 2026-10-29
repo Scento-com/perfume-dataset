@@ -26,7 +26,7 @@ amyris,Amyris,amyris wood,Wood,natural,"Dry, balsamic and lightly sweet wood, li
 angelica,Angelica,Angelica Seeds; Angelica Roots,Green,natural,"Earthy, green and musky-sweet, with a peppery root-like depth.",https://www.scento.com/note/angelica
 animalic-notes,Animalic Notes,Animalic Notes*; notes animales; animal notes; animalic; animal,Musk,accord,"A warm, skin-like animal facet, musky, furry and slightly sweet.",https://www.scento.com/note/animal-notes
 anise,Anise,aniseed; star anise; anis; anis etoile; Badiane; Star Anis,Spice,natural,"Sweet, licorice-like spice with a cool, aromatic edge.",https://www.scento.com/note/anise
-apple,Apple,green apple; red apple; Watery Fruity Apple; Mela; mela Granny Smith; Pomme; juicy red apple; apfel; manzana; granny smith apple; pink lady apple; candied apple; toffee apple; Granny Smith,Fruit,accord,"Crisp, juicy and bright, from cut green skin to ripe red flesh.",https://www.scento.com/note/apple
+apple,Apple,green apple; red apple; Watery Fruity Apple; Mela; mela Granny Smith; Pomme; juicy red apple; apfel; manzana; granny smith apple; pink lady apple; candied apple; toffee apple; Granny Smith; pomme verte,Fruit,accord,"Crisp, juicy and bright, from cut green skin to ripe red flesh.",https://www.scento.com/note/apple
 apple-blossom,Apple Blossom,apple flower; Apple Tree Blossom,Floral,accord,"Soft, fresh pink-white blossom with a light fruity-green sweetness.",https://www.scento.com/note/apple-blossom
 apricot,Apricot,abricot; aprikose; albaricoque,Fruit,accord,"Soft, golden and jammy, with a hint of almond at the edges.",https://www.scento.com/note/apricot
 apricot-blossom,Apricot blossom,,Floral,natural,"Delicate, soft almond-tinged petals with a gentle fruity sweetness.",https://www.scento.com/note/apricot-blossom
@@ -41,6 +41,7 @@ basil,Basil,italian basil; italian basil essence; codistillation basil; co-disti
 basil-verbena,Basil Verbena,,Aromatic herb,,"Herbal and lemony, combining the peppery green of basil with the bright citrus freshness of verbena.",https://www.scento.com/perfume-database/materials/basil-verbena
 basmati-rice,Basmati Rice,rice accord,Gourmand,accord,"Warm, nutty and faintly floral steamed grain.",https://www.scento.com/perfume-database/materials/basmati-rice
 bay,Bay,bay leaf; Bay Leaves,Aromatic herb,natural,"Herbal and slightly peppery with a fresh, green-camphor edge, like crushed laurel leaves.",https://www.scento.com/note/bay-leaf
+beech,Beech,beech wood; beechwood; smoked beech wood; hêtre; faggio,Wood,natural,"Pale, dry, lightly smoky wood with a clean, toasted edge.",https://www.scento.com/perfume-database/materials/beech
 beeswax,Beeswax,,Gourmand,both,"Soft, honeyed and faintly waxy, with a gentle sweetness and warmth.",https://www.scento.com/note/beeswax
 benzoin,Benzoin,benzoin gum; benzoin resinoid; benzoin siam; benzoin sumatra; benjoin; Benzoin Extract Orpur®; Tears of Benzoin; Benzoin Resin; benzoine; benzoe; benzoino; benjui,Resin & incense,natural,"Warm, sweet, vanilla-like resin with a soft balsamic glow.",https://www.scento.com/note/benzoin
 bergamot,Bergamot,calabrian bergamot; italian bergamot; bright bergamot; bergamot perfume; bergamotte; Bergamote; Bergamotto; bergamotto Italia; bergamota; italy bergamot; zested bergamot; Calabrian Bergamot Dop; Bergamot (Citrus); Bergamot Essence; italian vert de bergamot; bergamote integrale; bergamot zest; bergamot cardamom nutmeg; bergamot heart calabria; bergamot nectar; Vert de Bergamot; Vert de Bergamote; bergamot top note; Calabrian Bergamot PDO,Citrus,natural,"Sparkling peel of a green-gold citrus, juicy and slightly floral, with a bitter edge that keeps it elegant.",https://www.scento.com/note/bergamot
@@ -80,7 +81,7 @@ candied-orange,Candied Orange,,Gourmand,accord,"Sweet, glossy orange peel, stick
 cannabis,Cannabis,,Green,natural,"Green, resinous and herbal with a skunky, slightly smoky depth.",https://www.scento.com/note/cannabis
 carambola,Carambola,star fruit,Fruit,accord,"Crisp, watery and tart-sweet tropical fruit.",https://www.scento.com/perfume-database/materials/carambola
 caramel,Caramel,salted caramel; salted caramel accord; caramelised sugar; caramelized sugar; toffee notes; espolosione di caramello; salty caramel; caramel milk; caramelo; Melted Caramel,Gourmand,accord,"Warm, toasty-sweet melted sugar with a buttery depth.",https://www.scento.com/note/caramel
-caraway,Caraway,,Spice,natural,"Dry, slightly anise-like spice with a green, bready warmth.",https://www.scento.com/note/caraway
+caraway,Caraway,carvi,Spice,natural,"Dry, slightly anise-like spice with a green, bready warmth.",https://www.scento.com/note/caraway
 cardamom,Cardamom,cardamom oil; cardamome; Cardamom Oil Orpur®; Spicy Cardamom; Cardamom essence Guatemala; Cardamon; Cardamomo; guatemalan cardamom; cardamom essential oil; kardamom; cadamom; Cardamom Guatemala,Spice,natural,"Cool, aromatic and sweetly spicy, with a camphor and citrus lift.",https://www.scento.com/note/cardamom
 carnation,Carnation,oeillet; Garofano; clavel; dianthus; nelke,Floral,accord,"Spicy, clove-tinged flower with a peppery-sweet warmth.",https://www.scento.com/note/carnation
 carrot,Carrot,,Earth & moss,natural,"Earthy, dry and faintly sweet root note, powdery with a woody-orris feel.",https://www.scento.com/note/carrot
@@ -103,7 +104,7 @@ chestnut,Chestnut,chestnut glace; chesnut,Gourmand,natural,"Soft, nutty and roas
 chocolate,Chocolate,cacao; cocoa; chocolat; cacao pod; cocoa bean; schokolade; cacao absolute,Gourmand,accord,"Dark, bittersweet and creamy cocoa.",https://www.scento.com/note/cacao
 cinnamon,Cinnamon,cinnamon essence; Cinnamon Bark; cannella; cannelle; canela; zimt; ceylan cinnamon; ceylon cinnamon; cinnamon stick; Cinnamon Ceylan,Spice,natural,"Warm, sweet and woody-spicy, with a cosy bakery glow.",https://www.scento.com/note/cinnamon
 cistus-ambrein,Cistus Ambrein,,Resin & incense,,"Warm, honeyed-amber and leathery, a refined cistus facet with a dry balsamic glow.",https://www.scento.com/perfume-database/materials/cistus-ambrein
-citrus,Citrus,citrus fruits accord; Citrus Fruits; sparkling citrus; citrus notes; agrumes; zitrus; hesperides; Citruses; Italian Citrus Zest Accord; Agrumi; Citrus Peel,Citrus,accord,"A generic bright citrus sparkle, zesty and clean.",https://www.scento.com/note/citruses
+citrus,Citrus,citrus fruits accord; Citrus Fruits; sparkling citrus; citrus notes; agrumes; zitrus; hesperides; Citruses; Italian Citrus Zest Accord; Agrumi; Citrus Peel; citrus zest,Citrus,accord,"A generic bright citrus sparkle, zesty and clean.",https://www.scento.com/note/citruses
 civet,Civet,Civet*,Musk,,"Warm, intensely animal and musky, with an indolic floral edge that turns soft when diluted.",https://www.scento.com/note/civet
 civettone,Civettone,,Musk,synthetic,"A deep, fatty musk with a warm animalic facet reminiscent of civet, adding raw skin-like depth.",https://www.scento.com/perfume-database/materials/civettone
 clary-sage,Clary Sage,clary; sage clary oil,Aromatic herb,natural,"Herbal, honeyed and faintly ambery, softer than common sage.",https://www.scento.com/note/clary-sage
@@ -119,7 +120,7 @@ cognac,Cognac,cognac accord; brandy,Gourmand,accord,"Warm, fruity, woody brandy 
 cold-spices,Cold spices,,Spice,accord,"A crisp, airy spice effect, peppery and cool rather than warm and sweet.",https://www.scento.com/perfume-database/materials/cold-spices
 copaiba-balm,Copaiba Balm,,Resin & incense,natural,"Soft, woody-balsamic resin with a gentle, slightly peppery sweetness.",https://www.scento.com/note/copaiba-balm
 coriander,Coriander,coriander seed; Coriander Orpur®; coriandre; koriander; cilantro; coriandolo,Spice,natural,"Citrusy, woody and a little soapy spice with a fresh brightness.",https://www.scento.com/note/coriander
-cotton,Fresh Cotton,fresh cotton accord; cotton; clean cotton; laundry,Musk,accord,"Clean, airy linen scent, soft and freshly laundered.",https://www.scento.com/perfume-database/materials/cotton
+cotton,Fresh Cotton,fresh cotton accord; cotton; clean cotton; laundry; coton,Musk,accord,"Clean, airy linen scent, soft and freshly laundered.",https://www.scento.com/perfume-database/materials/cotton
 cotton-candy,Cotton Candy,candy floss; candyfloss; cotton candy accord,Gourmand,accord,"Airy spun sugar, light, sticky-sweet and faintly caramelised.",https://www.scento.com/note/cotton-candy
 coumarin,Coumarin,coumarine; cumarina,Gourmand,both,"Sweet, hay-like and warm, with an almond-vanilla glow like freshly cut hay.",https://www.scento.com/note/coumarin
 creme-brulee,Crème Brûlée,creme brulee; burnt cream; brulee; creme brule,Gourmand,accord,Custard sweetness under a thin crackle of burnt sugar.,https://www.scento.com/note/creme-brulee
@@ -137,6 +138,7 @@ daisy,Daisy,Daisy Tree Petals,Floral,accord,"Fresh, lightly green and slightly b
 dates,Dates,,Gourmand,accord,"Dark, sticky and honeyed dried fruit note with a rich, raisin-like sweetness.",https://www.scento.com/note/dates
 datura-flower,Datura flower,Desert Datura Flower,White floral,natural,"A heady, narcotic white flower, creamy and slightly green with a sweet, musky trail.",https://www.scento.com/perfume-database/materials/datura-flower
 davana,Davana,davana india; davana oil; davan,Aromatic herb,natural,"Warm, fruity-herbal note with a plum and tobacco-like sweetness.",https://www.scento.com/note/davana
+dill,Dill,dill weed; dill leaf; aneth,Aromatic herb,natural,"Fresh, green and slightly sweet herb with a feathery, anise-like lift.",https://www.scento.com/perfume-database/materials/dill
 dragon-fruit,Dragon fruit,Pitaya; Exotic Pitaya,Fruit,accord,"Mild, juicy and subtly sweet tropical fruit note, light and watery with a faint berry tone.",https://www.scento.com/perfume-database/materials/dragon-fruit
 dried-fruits,Dried Fruits,fruits secs; dried fruit; trockenfruchte; frutos secos,Gourmand,accord,"Sweet, concentrated fruit, like raisins and figs, jammy and slightly boozy.",https://www.scento.com/note/dried-fruits
 driftwood,Driftwood,Drift-Wood; bois flotte,Wood,accord,"Dry, pale, sun-bleached wood with a faintly salty, weathered feel.",https://www.scento.com/note/driftwood
@@ -160,7 +162,7 @@ freesia,Freesia,fresia; Freesia Flower; purple freesia; fressia,Floral,accord,"F
 fresh-wind,Fresh wind,Vento Fresco,Marine & mineral,accord,"Airy, clean accord that suggests moving air and open space rather than any single material.",https://www.scento.com/perfume-database/materials/fresh-wind
 fruit,Fruit,Fruit Accord; fruity; notes fruitees; fruit notes; Fruity Notes,Fruit,accord,"A general ripe, sweet fruit impression, juicy and slightly jammy without being one named fruit.",https://www.scento.com/note/fruity-notes
 galbanum,Galbanum,,Green,natural,"Intensely green, bitter and resinous, like crushed stems and sap.",https://www.scento.com/note/galbanum
-gardenia,Gardenia,Fluffy Gardenia,White floral,accord,"Creamy, green-white petals with a lush, buttery fullness.",https://www.scento.com/note/gardenia
+gardenia,Gardenia,Fluffy Gardenia; floral gardenia,White floral,accord,"Creamy, green-white petals with a lush, buttery fullness.",https://www.scento.com/note/gardenia
 gentian,Gentian,,Earth & moss,natural,"Bitter, earthy root note, dry and green with a faint floral edge.",https://www.scento.com/perfume-database/materials/gentian
 georgywood,Georgywood,Georgywood™; georgywoood,Wood,synthetic,"A smooth, warm woody-amber effect, dry with a slight spicy sweetness.",https://www.scento.com/note/georgywood
 geraniol,Geraniol,,Floral,both,"A sweet, fresh rose-like floral note with a faint citrus and geranium-leaf tinge.",https://www.scento.com/perfume-database/materials/geraniol
@@ -294,7 +296,7 @@ peach,Peach,white peach; Pesca; pesca succosa; peach nectar; peche; pfirsich; me
 peach-blossom,Peach Blossom,Peach Blossoms; Bush Peach Blossom,Floral,,"Soft, delicate floral with a faint fruity, almond-like sweetness reminiscent of spring orchards.",https://www.scento.com/note/peach-blossom
 pear,Pear,williams pear; Poire; Pera; Accord de Poire; william pear; pera nashi; birne; nashi pear; pear green; Juicy Pear; Pear Nectar; nashi; sparkling pear; pear juice,Fruit,accord,"Watery, sweet-green fruit with soft, rounded edges.",https://www.scento.com/note/pear
 pear-blossom,Pear blossom,,Floral,accord,"Light, watery spring blossom, slightly sweet and green, with a clean pear-skin freshness.",https://www.scento.com/note/pear-blossom
-peony,Peony,pivoine; peonia; Living Red Peony; Cherry Peony,Floral,accord,"Airy, watery pink petals with a soft green freshness.",https://www.scento.com/note/peony
+peony,Peony,pivoine; peonia; Living Red Peony; Cherry Peony; peonies,Floral,accord,"Airy, watery pink petals with a soft green freshness.",https://www.scento.com/note/peony
 pepper,Pepper,black pepper; fresh black pepper; pepper black madagascar oil; peppercorn; Pepe nero; poivre noir; bourbon pepper; pfeffer; poivre; pimienta negra; pepper notes; gi karabiber; hot chili pepper; spicy pink pepper,Spice,natural,"Dry, warm and sharply aromatic, with a tingling bite.",https://www.scento.com/note/pepper
 pepperwood,Pepperwood,pepper wood,Spice,accord,"Dry, peppery wood with a clean, slightly citrusy bite.",https://www.scento.com/note/pepperwood
 persimmon,Persimmon,,Fruit,,"Soft, honeyed and mildly tangy, a juicy orange-peach fruit with a gentle, creamy sweetness.",https://www.scento.com/note/persimmon
@@ -324,7 +326,7 @@ rangoon-creeper,Rangoon creeper,,White floral,natural,"A fresh, climbing white-p
 raspberry,Raspberry,Framboise; Lampone; frambuesa; himbeere; Raspberries; raspberry sugar; raspberry liquor; Raspberry Coulis,Fruit,accord,"Tart, sugary berry with a jammy edge.",https://www.scento.com/note/raspberry
 raspberry-blossom,Raspberry Blossom,,Floral,,"A soft, sweet floral with a juicy, jammy raspberry-like facet.",https://www.scento.com/note/raspberry-blossom
 red-berries,Red berries,Frutti rossi; Vibrant Berries,Fruit,accord,"Bright, juicy and slightly tart red fruit, sweet like a handful of fresh berries.",https://www.scento.com/note/red-berries
-red-currant,Red currant,Ribes rosso; Redcurrant,Fruit,both,"Sharp, tangy and slightly tart red berry note, brighter and greener than black currant.",https://www.scento.com/note/red-currant
+red-currant,Red currant,Ribes rosso; Redcurrant; red current,Fruit,both,"Sharp, tangy and slightly tart red berry note, brighter and greener than black currant.",https://www.scento.com/note/red-currant
 red-fruits,Red fruits,,Fruit,accord,"Juicy mix of red berries such as strawberry and raspberry, sweet with a tart edge.",https://www.scento.com/note/red-fruits
 red-pepper,Red Pepper,red pepper berries; red pepper; roter pfeffer; poivre rouge; cayenne pepper; poivre de cayenne,Spice,natural,"Fruity, warm peppery sparkle with a mild sweetness.",https://www.scento.com/note/red-pepper
 red-seaweed,Red seaweed,Red Seaweed essence,Marine & mineral,natural,"Briny, mineral and iodic, with a cool, salty-green sea-air character.",https://www.scento.com/perfume-database/materials/red-seaweed
@@ -378,6 +380,7 @@ teak-wood,Teak Wood,Teak; Teakwood,Wood,natural,"Dry, leathery and slightly smok
 thibetone,Thibetone,,Musk,synthetic,"A warm, round musk with a faintly creamy, animalic softness, evoking skin and fur.",https://www.scento.com/perfume-database/materials/thibetone
 thyme,Thyme,Timo; thym; thymian; tomillo,Aromatic herb,natural,"Warm, dry herb with a peppery, slightly medicinal bite.",https://www.scento.com/note/thyme
 tiare,Tiaré,tiare flower; Tiara Flower,White floral,natural,Creamy tropical gardenia relative with a coconut-tinged sweetness.,https://www.scento.com/note/tiare-flower
+tiger-liana,Tiger Liana,smoky tiger liana; fauve liana,Green,accord,"Green, leafy and faintly animalic, like cut stems with a sweet, smoky undertone.",https://www.scento.com/perfume-database/materials/tiger-liana
 tobacco,Tobacco,tobacco accord; tabac; tobacco leaf; cold tobacco; Tobacco Leaves; feuilles de tabac; honeyed tobacco accord; tabak; tabaco,Smoke & leather,both,"Sweet, dry, honeyed leaf with a warm, hay-like smoke.",https://www.scento.com/note/tobacco
 tobacco-flower,Tobacco flower,Tobacco Flowers; Tobacco Flower,Floral,natural,"A sweet, faintly honeyed blossom with a hint of dried leaf, like tobacco in bloom.",https://www.scento.com/perfume-database/materials/tobacco-flower
 toffee,Toffee,,Gourmand,accord,"Warm, buttery, burnt-sugar sweetness, rich and chewy like cooked caramel.",https://www.scento.com/note/toffee

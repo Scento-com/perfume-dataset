@@ -20,7 +20,7 @@ It is the same data that powers the free Scento Perfume API and its MCP server.
 | `materials.csv` | 420 | Raw materials, accords and notes with aliases, material family, origin and smell description. |
 | `datapackage.json` | | Frictionless Data descriptor for all tables. |
 
-The Scento Perfume API covers 1,500+ perfumes, 160+ houses and 450+ raw materials; this snapshot (27 October 2026) exports every entry that has a public page on scento.com.
+The Scento Perfume API covers 1,500+ perfumes, 160+ houses and 450+ raw materials; this snapshot (29 October 2026) exports every entry that has a public page on scento.com.
 
 ## Fields
 
@@ -44,4 +44,4 @@ Attribute as: **Scento — https://www.scento.com/perfume-database**
 
 ## Citation
 
-Scento. Scento Perfume Database (2026-10-21). https://www.scento.com/perfume-database
+Scento. Scento Perfume Database (2026-10-29). https://www.scento.com/perfume-database
